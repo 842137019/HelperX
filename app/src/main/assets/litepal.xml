@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="/sdcard/QQTask/db/QQ_DATA"></dbname>
+
+    <version value="11"></version>
+
+    <list>
+        <mapping class="com.cc.task.helperx.entity.GroupInfo"/>
+        <mapping class="com.cc.task.helperx.entity.ReplyMsgInfo"/>
+        <mapping class="com.cc.task.helperx.entity.ContactInfo"/>
+        <mapping class="com.cc.task.helperx.entity.MembersInfo"/>
+        <mapping class="com.cc.task.helperx.entity.GroupMembersInfo"/>
+    </list>
+
+</litepal>
